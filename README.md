@@ -11,9 +11,6 @@ The model achieves **high accuracy** (~100% on training, ~98% on validation) and
 ```
 /ISL_Project
     ├── train_model.ipynb   # Training and evaluation code
-    ├── ISL_DATA/           # Dataset (train/validation images)
-    ├── saved_model/        # Final saved model (.h5 or TensorFlow SavedModel)
-    ├── sample_predictions/ # Sample outputs (optional)
     └── README.md           # This file
 ```
 
