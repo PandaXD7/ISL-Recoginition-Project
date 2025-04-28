@@ -1,12 +1,5 @@
 # ISL-Recoginition-Project
 
-Here’s a **ready-made README.md** you can directly use for your ISL (Indian Sign Language) project:  
-(I'll keep it clean, professional, and easy to understand)
-
----
-
-# 🇮🇳 ISL Hand Gesture Recognition
-
 ## 📚 Overview
 This project builds a deep learning model to **recognize Indian Sign Language (ISL) alphabets** using a Convolutional Neural Network (CNN).
 
